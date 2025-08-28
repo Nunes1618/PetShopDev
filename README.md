@@ -1,4 +1,4 @@
-# Projeto React + Typescript + Vite
+# Projeto React + Typescript + NextJs
 
 - Projeto desenvolvido apenas para fins acadêmicos e testes.
 - Função: Desenvolver uma página Web responsiva de Petshop utilizando Typescript, React, Tailwind CSS, Next.js e a biblioteca UI Shadcn.
