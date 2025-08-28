@@ -3,8 +3,8 @@
 import { FaChevronLeft, FaChevronRight } from "react-icons/fa" 
 import useEmblaCarousel from "embla-carousel-react"
 import tutor1 from '../../../public/tutor1.png'
-import tutor2 from '../../../public/jasmine jones.png'
-import tutor3 from '../../../public/jennifer Li.png'
+import tutor2 from '../../../public/jasminejones.png'
+import tutor3 from '../../../public/jenniferLi.png'
 import Image from "next/image"
 
 const testimonials = [
